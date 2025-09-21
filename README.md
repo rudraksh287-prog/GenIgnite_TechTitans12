@@ -71,8 +71,9 @@ TechTitans
 ## 8. Additional Links
 
 - [https://drive.google.com/file/d/1i7rsM-0baK7YELND_BrO4McdftNjS8Pt/view?usp=drivesdk](#)
+- [https://drive.google.com/file/d/1qFk68sEQS0BoIz2_7kI2BPqdOL5hpHhb/view?usp=drivesdk](#)
 - [https://chatgpt.com/?model=auto](#)
-- [https://chatgpt.com/?model=auto](#)
+- [https://gemini.google.com/app](#)
 
 ---
 
